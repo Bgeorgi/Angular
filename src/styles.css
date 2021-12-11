@@ -1,0 +1,12 @@
+tr, td, table{
+    border: 2px solid rgb(68, 65, 65);
+    text-align: center;
+}
+
+.btn-success {
+    background-color: rgb(122, 228, 210);
+}
+
+h2{
+    color: rgb(58, 77, 59);
+}
